@@ -6,7 +6,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ![hw](Images/Dashboard.PNG)
 
-`Web site is deploy to ["GitHub" Pages](https://singhsanoo.github.io/belly-button-biodiversity/)`
+Web site is deploy to ["GitHub" Pages](https://singhsanoo.github.io/belly-button-biodiversity/)
 
 ## Instructions
 
