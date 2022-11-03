@@ -8,6 +8,12 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Web site is deploy to ["GitHub" Pages](https://singhsanoo.github.io/belly-button-biodiversity/)
 
+## Tools
+* Javascript
+* D3
+* HTML/CSS
+* Plotly
+
 ## Instructions
 
 1. D3 library reads from the URL `https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json`.
